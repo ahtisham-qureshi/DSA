@@ -20,6 +20,7 @@ LeetCode
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
 | [0221-maximal-square](https://github.com/ahtisham-qureshi/DSA/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/0377-combination-sum-iv) |
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
@@ -31,4 +32,8 @@ LeetCode
 | [0221-maximal-square](https://github.com/ahtisham-qureshi/DSA/tree/master/0221-maximal-square) |
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
