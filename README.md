@@ -14,6 +14,7 @@ LeetCode
 | [0221-maximal-square](https://github.com/ahtisham-qureshi/DSA/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
 | [0983-minimum-cost-for-tickets](https://github.com/ahtisham-qureshi/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1049-last-stone-weight-ii) |
@@ -27,6 +28,7 @@ LeetCode
 | [0221-maximal-square](https://github.com/ahtisham-qureshi/DSA/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
 | [0983-minimum-cost-for-tickets](https://github.com/ahtisham-qureshi/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1049-last-stone-weight-ii) |
@@ -43,4 +45,8 @@ LeetCode
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
