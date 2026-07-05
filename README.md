@@ -10,6 +10,7 @@ LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
 | [0221-maximal-square](https://github.com/ahtisham-qureshi/DSA/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/0377-combination-sum-iv) |
@@ -49,4 +50,12 @@ LeetCode
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
