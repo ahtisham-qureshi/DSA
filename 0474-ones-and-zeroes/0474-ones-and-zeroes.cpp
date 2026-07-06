@@ -1,30 +1,48 @@
 class Solution {
     vector<vector<vector<int>>> dp;
-    vector<pair<int,int>> cnt;
+    vector<pair<int, int>> cnt;
+
 public:
-    int solve(int i,int m,int n){
-        if(i<0) return 0;
-        if(dp[i][m][n] != -1) return dp[i][m][n];
-
-        int z = cnt[i].first, o = cnt[i].second;
-
-        int skip = solve(i-1,m,n);
-        int take = 0;
-        if(m>=z && n>=o) take = 1 + solve(i-1,m-z,n-o);
-
-        return dp[i][m][n] = max(skip,take);
-    }
     int findMaxForm(vector<string>& strs, int m, int n) {
-        dp.resize(strs.size(),vector<vector<int>>(m+1,vector<int>(n+1,-1)));
-        for(auto &s : strs){
+        int L = strs.size();
+        dp.resize(L,
+                  vector<vector<int>>(m + 1, vector<int>(n + 1, 0)));
+        for (auto& s : strs) {
             int z = 0, o = 0;
-            for(char c : s){
-                if(c == '0') z++;
-                else o++;
+            for (char c : s) {
+                if (c == '0')
+                    z++;
+                else
+                    o++;
             }
-            cnt.push_back({z,o});
+            cnt.push_back({z, o});
         }
 
-        return solve(strs.size() - 1,m,n);
+        int z = cnt[0].first;
+        int o = cnt[0].second;
+
+        for (int j = z; j <= m; j++) {
+            for (int k = o; k <= n; k++) {
+                dp[0][j][k] = 1;
+            }
+        }
+
+        for (int i = 1; i < L; i++) {
+            int z = cnt[i].first;
+            int o = cnt[i].second;
+            for (int j = 0; j <= m; j++) {
+                for (int k = 0; k <= n; k++) {
+
+                    int skip = dp[i - 1][j][k];
+                    int take = 0;
+                    if (j >= z && k >= o)
+                        take = 1 + dp[i - 1][j - z][k - o];
+
+                    dp[i][j][k] = max(skip, take);
+                }
+            }
+        }
+
+        return dp[L - 1][m][n];
     }
 };
