@@ -10,9 +10,17 @@ public:
         for(int i = coins[0];i<=amount;i += coins[0]) dp[i] = 1;
 
         for(int i = 1;i<n;i++){
-            for(int target = coins[i];target<=amount;target++){
-                dp[target] += dp[target - coins[i]];
+            vector<unsigned long long> curr(amount+1,0);
+            curr[0] = 1;
+            for(int target = 1;target<=amount;target++){
+                unsigned long long skip = dp[target];
+                unsigned long long take = 0;
+                if (coins[i] <= target)
+                    take = curr[target - coins[i]];
+
+                curr[target] = skip + take;
             }
+            dp = curr;
         }
 
 
