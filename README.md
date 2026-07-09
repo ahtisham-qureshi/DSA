@@ -9,6 +9,7 @@ LeetCode
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 | [0474-ones-and-zeroes](https://github.com/ahtisham-qureshi/DSA/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@ LeetCode
 | [0416-partition-equal-subset-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ahtisham-qureshi/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ahtisham-qureshi/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
