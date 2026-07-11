@@ -11,6 +11,7 @@ LeetCode
 | [0474-ones-and-zeroes](https://github.com/ahtisham-qureshi/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ahtisham-qureshi/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Dynamic Programming
@@ -32,6 +33,7 @@ LeetCode
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
 | [0983-minimum-cost-for-tickets](https://github.com/ahtisham-qureshi/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ahtisham-qureshi/DSA/tree/master/1301-number-of-paths-with-max-score) |
