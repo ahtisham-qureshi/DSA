@@ -7,6 +7,7 @@ LeetCode
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/ahtisham-qureshi/DSA/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 | [0474-ones-and-zeroes](https://github.com/ahtisham-qureshi/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -19,6 +20,7 @@ LeetCode
 | ------- |
 | [0062-unique-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/ahtisham-qureshi/DSA/tree/master/0115-distinct-subsequences) |
 | [0221-maximal-square](https://github.com/ahtisham-qureshi/DSA/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/ahtisham-qureshi/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0322-coin-change) |
