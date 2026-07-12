@@ -6,6 +6,7 @@ LeetCode
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ahtisham-qureshi/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
@@ -20,6 +21,7 @@ LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ahtisham-qureshi/DSA/tree/master/0072-edit-distance) |
@@ -133,5 +135,6 @@ LeetCode
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
