@@ -4,7 +4,7 @@ public:
         int m = s.length();
         int n = p.length();
 
-        vector<bool> prev(n + 1, false), curr(n+1,false);
+        vector<bool> prev(n + 1, false);
 
         prev[0] = true;
         for (int k = 1; k <= n; k++) {
@@ -13,16 +13,18 @@ public:
         }
 
         for (int i = 1; i <= m; i++) {
-            curr[0] = false;
+            bool preDig= prev[0];
+            prev[0] = false;
             for (int j = 1; j <= n; j++) {
+                bool temp = prev[j];
                 if (s[i - 1] == p[j - 1] || p[j - 1] == '?') {
-                    curr[j] = prev[j - 1];
+                    prev[j] = preDig;
                 } else if (p[j - 1] == '*') {
-                    curr[j] = prev[j] || curr[j - 1];
+                    prev[j] = prev[j] || prev[j - 1];
                 } else
-                    curr[j] = 0;
+                    prev[j] = false;
+                preDig = temp;
             }
-            prev = curr;
         }
 
         return prev[n];
