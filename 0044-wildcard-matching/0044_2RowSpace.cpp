@@ -8,12 +8,12 @@ public:
 
         prev[0] = true;
         for (int k = 1; k <= n; k++) {
-            curr[0] = false;
             if (prev[k - 1] && p[k - 1] == '*')
                 prev[k] = true;
         }
 
         for (int i = 1; i <= m; i++) {
+            curr[0] = false;
             for (int j = 1; j <= n; j++) {
                 if (s[i - 1] == p[j - 1] || p[j - 1] == '?') {
                     curr[j] = prev[j - 1];
