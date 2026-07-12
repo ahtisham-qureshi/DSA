@@ -29,6 +29,7 @@ LeetCode
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ahtisham-qureshi/DSA/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ahtisham-qureshi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/ahtisham-qureshi/DSA/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/ahtisham-qureshi/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0322-coin-change) |
@@ -54,6 +55,7 @@ LeetCode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ahtisham-qureshi/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ahtisham-qureshi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/ahtisham-qureshi/DSA/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/0377-combination-sum-iv) |
