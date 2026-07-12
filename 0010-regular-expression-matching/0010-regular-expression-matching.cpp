@@ -18,11 +18,8 @@ public:
         }
 
         if(p[j] == '*'){
-            int math = false;
-            if(p[j-1] == s[i] || p[j-1] == '.'){
-                math = solve(i-1,j,s,p);
-            }
-            return dp[i][j] = solve(i,j-2,s,p) || math;
+            int match = (p[j-1] == s[i] || p[j-1] == '.');
+            return dp[i][j] = solve(i,j-2,s,p) || (match && solve(i-1,j,s,p));
         }
 
         return dp[i][j] = false;
