@@ -6,6 +6,7 @@ LeetCode
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ahtisham-qureshi/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ahtisham-qureshi/DSA/tree/master/0115-distinct-subsequences) |
@@ -19,6 +20,7 @@ LeetCode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ahtisham-qureshi/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
@@ -124,4 +126,12 @@ LeetCode
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ahtisham-qureshi/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
