@@ -16,6 +16,7 @@ LeetCode
 | [0474-ones-and-zeroes](https://github.com/ahtisham-qureshi/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ahtisham-qureshi/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -50,6 +51,7 @@ LeetCode
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ahtisham-qureshi/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
 | [0983-minimum-cost-for-tickets](https://github.com/ahtisham-qureshi/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1143-longest-common-subsequence) |
@@ -80,6 +82,7 @@ LeetCode
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ahtisham-qureshi/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
 | [0983-minimum-cost-for-tickets](https://github.com/ahtisham-qureshi/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ahtisham-qureshi/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -94,6 +97,7 @@ LeetCode
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
+| [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,4 +167,9 @@ LeetCode
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ahtisham-qureshi/DSA/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
+## Hash Table
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
