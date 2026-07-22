@@ -12,6 +12,7 @@ LeetCode
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ahtisham-qureshi/DSA/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 | [0474-ones-and-zeroes](https://github.com/ahtisham-qureshi/DSA/tree/master/0474-ones-and-zeroes) |
@@ -34,6 +35,7 @@ LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahtisham-qureshi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ahtisham-qureshi/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/ahtisham-qureshi/DSA/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0241-different-ways-to-add-parentheses) |
