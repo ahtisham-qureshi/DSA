@@ -7,6 +7,7 @@ LeetCode
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/ahtisham-qureshi/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ahtisham-qureshi/DSA/tree/master/0072-edit-distance) |
@@ -122,6 +123,7 @@ LeetCode
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ahtisham-qureshi/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -196,6 +198,7 @@ LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ahtisham-qureshi/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/0013-roman-to-integer) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
