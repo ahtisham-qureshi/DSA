@@ -60,6 +60,7 @@ LeetCode
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ahtisham-qureshi/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
 | [0983-minimum-cost-for-tickets](https://github.com/ahtisham-qureshi/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1043-partition-array-for-maximum-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -97,6 +98,7 @@ LeetCode
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ahtisham-qureshi/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
 | [0983-minimum-cost-for-tickets](https://github.com/ahtisham-qureshi/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1043-partition-array-for-maximum-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
