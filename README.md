@@ -66,6 +66,7 @@ LeetCode
 | [1049-last-stone-weight-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ahtisham-qureshi/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ahtisham-qureshi/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ahtisham-qureshi/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -103,6 +104,7 @@ LeetCode
 | [1043-partition-array-for-maximum-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ahtisham-qureshi/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ahtisham-qureshi/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ahtisham-qureshi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -113,6 +115,7 @@ LeetCode
 | [0085-maximal-rectangle](https://github.com/ahtisham-qureshi/DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/ahtisham-qureshi/DSA/tree/master/0221-maximal-square) |
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ahtisham-qureshi/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ahtisham-qureshi/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Two Pointers
