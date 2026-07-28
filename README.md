@@ -78,6 +78,7 @@ LeetCode
 | ------- |
 | [0001-two-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ahtisham-qureshi/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
 | [0085-maximal-rectangle](https://github.com/ahtisham-qureshi/DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahtisham-qureshi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -121,6 +122,7 @@ LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 ## Backtracking
@@ -198,6 +200,7 @@ LeetCode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0015-3sum) |
 | [0354-russian-doll-envelopes](https://github.com/ahtisham-qureshi/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ahtisham-qureshi/DSA/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
