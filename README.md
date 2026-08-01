@@ -55,6 +55,7 @@ LeetCode
 | [0377-combination-sum-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ahtisham-qureshi/DSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/ahtisham-qureshi/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0518-coin-change-ii) |
@@ -98,6 +99,7 @@ LeetCode
 | [0377-combination-sum-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ahtisham-qureshi/DSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/ahtisham-qureshi/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -142,6 +144,7 @@ LeetCode
 | [0241-different-ways-to-add-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/ahtisham-qureshi/DSA/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ahtisham-qureshi/DSA/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/ahtisham-qureshi/DSA/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -204,6 +207,7 @@ LeetCode
 | [0010-regular-expression-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/ahtisham-qureshi/DSA/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -246,4 +250,8 @@ LeetCode
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ahtisham-qureshi/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
