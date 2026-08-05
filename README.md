@@ -163,6 +163,7 @@ LeetCode
 | ------- |
 | [0279-perfect-squares](https://github.com/ahtisham-qureshi/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0322-coin-change) |
+| [3310-remove-methods-from-project](https://github.com/ahtisham-qureshi/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ LeetCode
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
+| [3310-remove-methods-from-project](https://github.com/ahtisham-qureshi/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,4 +272,8 @@ LeetCode
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ahtisham-qureshi/DSA/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/ahtisham-qureshi/DSA/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
