@@ -281,4 +281,8 @@ LeetCode
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
