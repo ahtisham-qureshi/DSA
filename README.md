@@ -76,6 +76,7 @@ LeetCode
 | [1301-number-of-paths-with-max-score](https://github.com/ahtisham-qureshi/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ahtisham-qureshi/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/ahtisham-qureshi/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ahtisham-qureshi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2466-count-ways-to-build-good-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/2466-count-ways-to-build-good-strings) |
@@ -151,6 +152,7 @@ LeetCode
 | [0486-predict-the-winner](https://github.com/ahtisham-qureshi/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ahtisham-qureshi/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -267,14 +269,17 @@ LeetCode
 | [0486-predict-the-winner](https://github.com/ahtisham-qureshi/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ahtisham-qureshi/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ahtisham-qureshi/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ahtisham-qureshi/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
@@ -287,4 +292,12 @@ LeetCode
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/1009-complement-of-base-10-integer) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
