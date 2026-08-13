@@ -113,6 +113,7 @@ LeetCode
 | [0877-stone-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/ahtisham-qureshi/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/1043-partition-array-for-maximum-sum) |
+| [1046-last-stone-weight](https://github.com/ahtisham-qureshi/DSA/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ahtisham-qureshi/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -314,4 +315,8 @@ LeetCode
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/ahtisham-qureshi/DSA/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
