@@ -141,6 +141,7 @@ LeetCode
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
 ## Math
@@ -187,15 +188,18 @@ LeetCode
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 | [3310-remove-methods-from-project](https://github.com/ahtisham-qureshi/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
