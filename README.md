@@ -100,6 +100,7 @@ LeetCode
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ahtisham-qureshi/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ahtisham-qureshi/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/ahtisham-qureshi/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/ahtisham-qureshi/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ahtisham-qureshi/DSA/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/0377-combination-sum-iv) |
@@ -191,6 +192,7 @@ LeetCode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ahtisham-qureshi/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahtisham-qureshi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ahtisham-qureshi/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ahtisham-qureshi/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Tree
 |  |
@@ -245,6 +247,7 @@ LeetCode
 | ------- |
 | [0015-3sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahtisham-qureshi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ahtisham-qureshi/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/ahtisham-qureshi/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ahtisham-qureshi/DSA/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ahtisham-qureshi/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -259,6 +262,7 @@ LeetCode
 | [0001-two-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ahtisham-qureshi/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/0013-roman-to-integer) |
+| [0347-top-k-frequent-elements](https://github.com/ahtisham-qureshi/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ahtisham-qureshi/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ahtisham-qureshi/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -288,6 +292,7 @@ LeetCode
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ahtisham-qureshi/DSA/tree/master/0347-top-k-frequent-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
@@ -331,6 +336,7 @@ LeetCode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahtisham-qureshi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ahtisham-qureshi/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ahtisham-qureshi/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ahtisham-qureshi/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/ahtisham-qureshi/DSA/tree/master/1046-last-stone-weight) |
@@ -338,6 +344,7 @@ LeetCode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahtisham-qureshi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ahtisham-qureshi/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -350,4 +357,8 @@ LeetCode
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ahtisham-qureshi/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ahtisham-qureshi/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
