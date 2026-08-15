@@ -128,6 +128,7 @@ LeetCode
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ahtisham-qureshi/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ahtisham-qureshi/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
 | ------- |
@@ -324,6 +325,7 @@ LeetCode
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/1009-complement-of-base-10-integer) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ahtisham-qureshi/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
 | ------- |
