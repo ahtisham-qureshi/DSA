@@ -34,6 +34,7 @@ LeetCode
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ahtisham-qureshi/DSA/tree/master/0072-edit-distance) |
@@ -91,6 +92,7 @@ LeetCode
 | [0004-median-of-two-sorted-arrays](https://github.com/ahtisham-qureshi/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/ahtisham-qureshi/DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahtisham-qureshi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -245,6 +247,7 @@ LeetCode
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/ahtisham-qureshi/DSA/tree/master/0455-assign-cookies) |
