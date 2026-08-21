@@ -107,6 +107,7 @@ LeetCode
 | [0377-combination-sum-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ahtisham-qureshi/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/ahtisham-qureshi/DSA/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/ahtisham-qureshi/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/ahtisham-qureshi/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
@@ -150,6 +151,7 @@ LeetCode
 | ------- |
 | [0015-3sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
+| [0455-assign-cookies](https://github.com/ahtisham-qureshi/DSA/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 ## Backtracking
 |  |
@@ -241,6 +243,7 @@ LeetCode
 | ------- |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/ahtisham-qureshi/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ahtisham-qureshi/DSA/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ahtisham-qureshi/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -262,6 +265,7 @@ LeetCode
 | [0354-russian-doll-envelopes](https://github.com/ahtisham-qureshi/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ahtisham-qureshi/DSA/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ahtisham-qureshi/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/ahtisham-qureshi/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ahtisham-qureshi/DSA/tree/master/0621-task-scheduler) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ahtisham-qureshi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -388,4 +392,8 @@ LeetCode
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ahtisham-qureshi/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
