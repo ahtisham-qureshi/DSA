@@ -117,6 +117,7 @@ LeetCode
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ahtisham-qureshi/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ahtisham-qureshi/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0741-cherry-pickup](https://github.com/ahtisham-qureshi/DSA/tree/master/0741-cherry-pickup) |
+| [0860-lemonade-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/ahtisham-qureshi/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/1043-partition-array-for-maximum-sum) |
@@ -246,6 +247,7 @@ LeetCode
 | [0455-assign-cookies](https://github.com/ahtisham-qureshi/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ahtisham-qureshi/DSA/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ahtisham-qureshi/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0860-lemonade-change) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2029-stone-game-ix](https://github.com/ahtisham-qureshi/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
