@@ -25,6 +25,7 @@ LeetCode
 | [1092-shortest-common-supersequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ahtisham-qureshi/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1927-sum-game](https://github.com/ahtisham-qureshi/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ahtisham-qureshi/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -178,6 +179,7 @@ LeetCode
 | [1406-stone-game-iii](https://github.com/ahtisham-qureshi/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ahtisham-qureshi/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ahtisham-qureshi/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ahtisham-qureshi/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -256,6 +258,7 @@ LeetCode
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ahtisham-qureshi/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0860-lemonade-change) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1927-sum-game](https://github.com/ahtisham-qureshi/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ahtisham-qureshi/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
@@ -332,6 +335,7 @@ LeetCode
 | [1406-stone-game-iii](https://github.com/ahtisham-qureshi/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ahtisham-qureshi/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ahtisham-qureshi/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ahtisham-qureshi/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
