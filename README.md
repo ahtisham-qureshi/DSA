@@ -92,6 +92,7 @@ LeetCode
 | [0001-two-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ahtisham-qureshi/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ahtisham-qureshi/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0055-jump-game) |
@@ -156,6 +157,7 @@ LeetCode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ahtisham-qureshi/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/ahtisham-qureshi/DSA/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
