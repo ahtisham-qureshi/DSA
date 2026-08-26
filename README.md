@@ -26,6 +26,7 @@ LeetCode
 | [1143-longest-common-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ahtisham-qureshi/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1927-sum-game](https://github.com/ahtisham-qureshi/DSA/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ahtisham-qureshi/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ahtisham-qureshi/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -239,6 +240,7 @@ LeetCode
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ahtisham-qureshi/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ahtisham-qureshi/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ahtisham-qureshi/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ahtisham-qureshi/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ahtisham-qureshi/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Rolling Hash
