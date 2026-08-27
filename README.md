@@ -31,6 +31,7 @@ LeetCode
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ahtisham-qureshi/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ahtisham-qureshi/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -266,6 +267,7 @@ LeetCode
 | [1927-sum-game](https://github.com/ahtisham-qureshi/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ahtisham-qureshi/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ahtisham-qureshi/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -305,6 +307,7 @@ LeetCode
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ahtisham-qureshi/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ahtisham-qureshi/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -333,6 +336,7 @@ LeetCode
 | [2029-stone-game-ix](https://github.com/ahtisham-qureshi/DSA/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ahtisham-qureshi/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -363,6 +367,7 @@ LeetCode
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ahtisham-qureshi/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
