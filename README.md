@@ -98,6 +98,7 @@ LeetCode
 | [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/ahtisham-qureshi/DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/ahtisham-qureshi/DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahtisham-qureshi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -176,6 +177,7 @@ LeetCode
 | [0012-integer-to-roman](https://github.com/ahtisham-qureshi/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ahtisham-qureshi/DSA/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/ahtisham-qureshi/DSA/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ahtisham-qureshi/DSA/tree/master/0368-largest-divisible-subset) |
