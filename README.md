@@ -424,4 +424,8 @@ LeetCode
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ahtisham-qureshi/DSA/tree/master/0455-assign-cookies) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ahtisham-qureshi/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
