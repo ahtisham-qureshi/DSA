@@ -146,6 +146,7 @@ LeetCode
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ahtisham-qureshi/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ahtisham-qureshi/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ahtisham-qureshi/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
@@ -158,6 +159,7 @@ LeetCode
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ahtisham-qureshi/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ahtisham-qureshi/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ahtisham-qureshi/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +207,7 @@ LeetCode
 | [0279-perfect-squares](https://github.com/ahtisham-qureshi/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/ahtisham-qureshi/DSA/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ahtisham-qureshi/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -310,6 +313,7 @@ LeetCode
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ahtisham-qureshi/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ahtisham-qureshi/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ahtisham-qureshi/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ahtisham-qureshi/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Indexed Tree
@@ -376,6 +380,7 @@ LeetCode
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/1009-complement-of-base-10-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ahtisham-qureshi/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ahtisham-qureshi/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
