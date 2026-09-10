@@ -240,11 +240,13 @@ LeetCode
 | [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ahtisham-qureshi/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ahtisham-qureshi/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ahtisham-qureshi/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/ahtisham-qureshi/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -252,6 +254,7 @@ LeetCode
 | [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ahtisham-qureshi/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ahtisham-qureshi/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
 | ------- |
