@@ -90,6 +90,7 @@ LeetCode
 | [1563-stone-game-v](https://github.com/ahtisham-qureshi/DSA/tree/master/1563-stone-game-v) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2466-count-ways-to-build-good-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/2466-count-ways-to-build-good-strings) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ahtisham-qureshi/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Array
 |  |
 | ------- |
@@ -147,6 +148,7 @@ LeetCode
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ahtisham-qureshi/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ahtisham-qureshi/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ahtisham-qureshi/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ahtisham-qureshi/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -228,6 +230,7 @@ LeetCode
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ahtisham-qureshi/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ahtisham-qureshi/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ahtisham-qureshi/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -311,6 +314,7 @@ LeetCode
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ahtisham-qureshi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ahtisham-qureshi/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ahtisham-qureshi/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
