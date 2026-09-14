@@ -196,6 +196,7 @@ LeetCode
 | [0279-perfect-squares](https://github.com/ahtisham-qureshi/DSA/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ahtisham-qureshi/DSA/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/ahtisham-qureshi/DSA/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/ahtisham-qureshi/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ahtisham-qureshi/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
@@ -461,4 +462,8 @@ LeetCode
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ahtisham-qureshi/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
