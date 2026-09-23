@@ -151,6 +151,7 @@ LeetCode
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ahtisham-qureshi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/ahtisham-qureshi/DSA/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ahtisham-qureshi/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2029-stone-game-ix](https://github.com/ahtisham-qureshi/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ahtisham-qureshi/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -249,6 +250,7 @@ LeetCode
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ahtisham-qureshi/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ahtisham-qureshi/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ahtisham-qureshi/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ahtisham-qureshi/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
@@ -285,6 +287,7 @@ LeetCode
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ahtisham-qureshi/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ahtisham-qureshi/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ahtisham-qureshi/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ahtisham-qureshi/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ahtisham-qureshi/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ahtisham-qureshi/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -353,6 +356,7 @@ LeetCode
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ahtisham-qureshi/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ahtisham-qureshi/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ahtisham-qureshi/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ahtisham-qureshi/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -486,6 +490,7 @@ LeetCode
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ahtisham-qureshi/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ahtisham-qureshi/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/ahtisham-qureshi/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Geometry
