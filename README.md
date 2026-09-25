@@ -24,6 +24,7 @@ LeetCode
 | [0940-distinct-subsequences-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ahtisham-qureshi/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ahtisham-qureshi/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -197,6 +198,7 @@ LeetCode
 | [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +241,7 @@ LeetCode
 | ------- |
 | [0279-perfect-squares](https://github.com/ahtisham-qureshi/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/ahtisham-qureshi/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ahtisham-qureshi/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
@@ -338,6 +341,7 @@ LeetCode
 | [0455-assign-cookies](https://github.com/ahtisham-qureshi/DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ahtisham-qureshi/DSA/tree/master/0621-task-scheduler) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ahtisham-qureshi/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ahtisham-qureshi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -354,6 +358,7 @@ LeetCode
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ahtisham-qureshi/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0621-task-scheduler](https://github.com/ahtisham-qureshi/DSA/tree/master/0621-task-scheduler) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ahtisham-qureshi/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ahtisham-qureshi/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -383,6 +388,7 @@ LeetCode
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ahtisham-qureshi/DSA/tree/master/0085-maximal-rectangle) |
+| [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
