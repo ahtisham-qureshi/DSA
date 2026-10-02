@@ -9,6 +9,7 @@ LeetCode
 | [0010-regular-expression-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ahtisham-qureshi/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ahtisham-qureshi/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
@@ -45,6 +46,7 @@ LeetCode
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0055-jump-game) |
@@ -203,6 +205,7 @@ LeetCode
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
@@ -527,6 +530,7 @@ LeetCode
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
