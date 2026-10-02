@@ -10,6 +10,7 @@ LeetCode
 | [0012-integer-to-roman](https://github.com/ahtisham-qureshi/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ahtisham-qureshi/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
@@ -201,6 +202,7 @@ LeetCode
 | [0015-3sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahtisham-qureshi/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ahtisham-qureshi/DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/ahtisham-qureshi/DSA/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ahtisham-qureshi/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -538,4 +540,20 @@ LeetCode
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ahtisham-qureshi/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
