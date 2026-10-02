@@ -162,6 +162,7 @@ LeetCode
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ahtisham-qureshi/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ahtisham-qureshi/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ahtisham-qureshi/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/ahtisham-qureshi/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ahtisham-qureshi/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ahtisham-qureshi/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -191,6 +192,7 @@ LeetCode
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ahtisham-qureshi/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ahtisham-qureshi/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ahtisham-qureshi/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ahtisham-qureshi/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ahtisham-qureshi/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
@@ -253,6 +255,7 @@ LeetCode
 | [0279-perfect-squares](https://github.com/ahtisham-qureshi/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ahtisham-qureshi/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3310-remove-methods-from-project](https://github.com/ahtisham-qureshi/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ahtisham-qureshi/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
