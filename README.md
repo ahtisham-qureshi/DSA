@@ -11,6 +11,7 @@ LeetCode
 | [0013-roman-to-integer](https://github.com/ahtisham-qureshi/DSA/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ahtisham-qureshi/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ahtisham-qureshi/DSA/tree/master/0091-decode-ways) |
@@ -48,6 +49,7 @@ LeetCode
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ahtisham-qureshi/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ahtisham-qureshi/DSA/tree/master/0055-jump-game) |
@@ -404,6 +406,7 @@ LeetCode
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ahtisham-qureshi/DSA/tree/master/0085-maximal-rectangle) |
 | [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -536,6 +539,7 @@ LeetCode
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
