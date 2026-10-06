@@ -25,6 +25,7 @@ LeetCode
 | [0516-longest-palindromic-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahtisham-qureshi/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -334,6 +335,7 @@ LeetCode
 | [0678-valid-parenthesis-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ahtisham-qureshi/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahtisham-qureshi/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ahtisham-qureshi/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1927-sum-game](https://github.com/ahtisham-qureshi/DSA/tree/master/1927-sum-game) |
@@ -412,6 +414,7 @@ LeetCode
 | [0032-longest-valid-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ahtisham-qureshi/DSA/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahtisham-qureshi/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -545,6 +548,7 @@ LeetCode
 | [0022-generate-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahtisham-qureshi/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
