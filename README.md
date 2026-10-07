@@ -20,6 +20,7 @@ LeetCode
 | [0132-palindrome-partitioning-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ahtisham-qureshi/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0474-ones-and-zeroes](https://github.com/ahtisham-qureshi/DSA/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ahtisham-qureshi/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -217,6 +218,7 @@ LeetCode
 | [0022-generate-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
 ## Math
@@ -260,6 +262,7 @@ LeetCode
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ahtisham-qureshi/DSA/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/ahtisham-qureshi/DSA/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ahtisham-qureshi/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
