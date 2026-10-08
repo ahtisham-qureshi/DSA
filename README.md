@@ -28,6 +28,7 @@ LeetCode
 | [0678-valid-parenthesis-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahtisham-qureshi/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/ahtisham-qureshi/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/ahtisham-qureshi/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
@@ -418,6 +419,7 @@ LeetCode
 | [0085-maximal-rectangle](https://github.com/ahtisham-qureshi/DSA/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahtisham-qureshi/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -552,6 +554,7 @@ LeetCode
 | [0032-longest-valid-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahtisham-qureshi/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ahtisham-qureshi/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
