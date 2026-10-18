@@ -108,6 +108,7 @@ LeetCode
 | [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ahtisham-qureshi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/ahtisham-qureshi/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ahtisham-qureshi/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ahtisham-qureshi/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ahtisham-qureshi/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -168,6 +169,7 @@ LeetCode
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ahtisham-qureshi/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ahtisham-qureshi/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/ahtisham-qureshi/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ahtisham-qureshi/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ahtisham-qureshi/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ahtisham-qureshi/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ahtisham-qureshi/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -246,6 +248,7 @@ LeetCode
 | [1406-stone-game-iii](https://github.com/ahtisham-qureshi/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ahtisham-qureshi/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ahtisham-qureshi/DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ahtisham-qureshi/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ahtisham-qureshi/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/ahtisham-qureshi/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ahtisham-qureshi/DSA/tree/master/2029-stone-game-ix) |
@@ -265,6 +268,7 @@ LeetCode
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ahtisham-qureshi/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ahtisham-qureshi/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Breadth-First Search
@@ -296,12 +300,14 @@ LeetCode
 | [0215-kth-largest-element-in-an-array](https://github.com/ahtisham-qureshi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ahtisham-qureshi/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ahtisham-qureshi/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ahtisham-qureshi/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ahtisham-qureshi/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ahtisham-qureshi/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ahtisham-qureshi/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -316,6 +322,7 @@ LeetCode
 | [0113-path-sum-ii](https://github.com/ahtisham-qureshi/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ahtisham-qureshi/DSA/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ahtisham-qureshi/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ahtisham-qureshi/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ahtisham-qureshi/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
@@ -434,6 +441,7 @@ LeetCode
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ahtisham-qureshi/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ahtisham-qureshi/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -531,6 +539,7 @@ LeetCode
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ahtisham-qureshi/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ahtisham-qureshi/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Data Stream
 |  |
 | ------- |
@@ -601,4 +610,12 @@ LeetCode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahtisham-qureshi/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ahtisham-qureshi/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ahtisham-qureshi/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
